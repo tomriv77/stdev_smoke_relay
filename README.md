@@ -1,2 +1,2 @@
 # stdev_smoke_relay
-(Smarthings dev) Smoke Detector Relay
+(Smarthings device) Smoke Detector Relay
